@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int mian(void)
+int main(void)
 {
 
 	return 0;
